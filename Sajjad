@@ -4,7 +4,7 @@ Apt install python
 Apt install python2
 Cd malik.py
 Git clone https://github.com/maliksajjad123/maliksajjad123.git
-Pkg imstall python
+Pkg install python
 Pkg install python2 
 User nam: malik sajjad
 Password : malik123
